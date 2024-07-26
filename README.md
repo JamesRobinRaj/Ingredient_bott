@@ -1,1 +1,2 @@
-# Ingredient_bott
+#Project
+This project is an application called IngredientIQ that uses PaddleOCR to scan product packaging and extract the list of ingredients. It provides comprehensive information about each ingredient, including advantages and disadvantages, dietary needs, allergies, preferences, benefits, impact, and side effects. Additionally, it includes a chatbot feature that allows users to ask questions about the ingredients and receive relevant information and answers. The application aims to promote transparency and informed decision-making regarding food products.
